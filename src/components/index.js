@@ -6,7 +6,7 @@ import Button from "./Button"
 import Input from './Input';
 import PostCard from "./PostCard"
 import Select from "./Select"
-import LogOutBtn from "./Header/LogoutBtn"
+import LogOutBtn from "./Header/LogOutBtn"
 import RTE from "./RTE"
 import AuthLayout from './AuthLayout'
 import Signup from "./Signup"
